@@ -1,1 +1,7 @@
-
+{
+  "name": " ThHREE NFT",
+  "image": "https://unsplash.com/photos/a-snow-covered-mountain-under-a-cloudy-sky-HaNo9UOyNUQ",
+  "attributes": [
+    {"trait_type": "Color", "value": "white"}
+  ]
+}
