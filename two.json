@@ -1,1 +1,7 @@
-
+{
+  "name": " TWO NFT",
+  "image": "https://unsplash.com/photos/the-sun-is-shining-through-the-trees-in-the-forest-TrhtvCmHGwk",
+  "attributes": [
+    {"trait_type": "Color", "value": "black"}
+  ]
+}
